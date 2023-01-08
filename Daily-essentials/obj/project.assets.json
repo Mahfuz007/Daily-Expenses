@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\My Works\\New folder\\Daily-essentials\\Daily-essentials\\Daily-essentials.csproj",
-      "projectName": "Daily-essentials",
-      "projectPath": "F:\\My Works\\New folder\\Daily-essentials\\Daily-essentials\\Daily-essentials.csproj",
+      "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily.Essentials.WebService.csproj",
+      "projectName": "Daily.Essentials.WebService",
+      "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily.Essentials.WebService.csproj",
       "packagesPath": "C:\\Users\\mahfuz\\.nuget\\packages\\",
-      "outputPath": "F:\\My Works\\New folder\\Daily-essentials\\Daily-essentials\\obj\\",
+      "outputPath": "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahfuz\\AppData\\Roaming\\NuGet\\NuGet.Config",

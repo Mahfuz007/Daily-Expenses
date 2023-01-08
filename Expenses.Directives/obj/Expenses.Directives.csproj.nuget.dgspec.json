@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\My Works\\New folder\\Daily-essentials\\Expenses.Directives\\Expenses.Directives.csproj": {}
+    "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Expenses.Directives.csproj": {}
   },
   "projects": {
-    "F:\\My Works\\New folder\\Daily-essentials\\Expenses.Directives\\Expenses.Directives.csproj": {
+    "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Expenses.Directives.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My Works\\New folder\\Daily-essentials\\Expenses.Directives\\Expenses.Directives.csproj",
+        "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Expenses.Directives.csproj",
         "projectName": "Expenses.Directives",
-        "projectPath": "F:\\My Works\\New folder\\Daily-essentials\\Expenses.Directives\\Expenses.Directives.csproj",
+        "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Expenses.Directives.csproj",
         "packagesPath": "C:\\Users\\mahfuz\\.nuget\\packages\\",
-        "outputPath": "F:\\My Works\\New folder\\Daily-essentials\\Expenses.Directives\\obj\\",
+        "outputPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahfuz\\AppData\\Roaming\\NuGet\\NuGet.Config",

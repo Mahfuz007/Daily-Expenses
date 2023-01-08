@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily-essentials.csproj": {}
+    "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily.Essentials.WebService.csproj": {}
   },
   "projects": {
-    "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily-essentials.csproj": {
+    "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily.Essentials.WebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily-essentials.csproj",
-        "projectName": "Daily-essentials",
-        "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily-essentials.csproj",
+        "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily.Essentials.WebService.csproj",
+        "projectName": "Daily.Essentials.WebService",
+        "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\Daily.Essentials.WebService.csproj",
         "packagesPath": "C:\\Users\\mahfuz\\.nuget\\packages\\",
         "outputPath": "F:\\My Works\\New folder\\Daily-Expenses\\Daily-essentials\\obj\\",
         "projectStyle": "PackageReference",
