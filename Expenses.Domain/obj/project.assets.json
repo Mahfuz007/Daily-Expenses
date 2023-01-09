@@ -229,9 +229,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\Expenses.Domain.csproj",
-      "projectName": "Expenses.Domain",
-      "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\Expenses.Domain.csproj",
+      "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\Infrastructure.csproj",
+      "projectName": "Infrastructure",
+      "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\mahfuz\\.nuget\\packages\\",
       "outputPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\obj\\",
       "projectStyle": "PackageReference",

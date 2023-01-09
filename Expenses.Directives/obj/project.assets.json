@@ -229,9 +229,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Expenses.Directives.csproj",
-      "projectName": "Expenses.Directives",
-      "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Expenses.Directives.csproj",
+      "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Application.csproj",
+      "projectName": "Application",
+      "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Application.csproj",
       "packagesPath": "C:\\Users\\mahfuz\\.nuget\\packages\\",
       "outputPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\obj\\",
       "projectStyle": "PackageReference",

@@ -5,11 +5,13 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daily.Essentials.WebService", "Daily-essentials\Daily.Essentials.WebService.csproj", "{6ABB3EBB-C949-4F07-9499-7EB64D76E471}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Expenses", "Expenses", "{FFEFED11-D575-463A-A7D0-2E1BEF5B73AC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core Service", "Core Service", "{FFEFED11-D575-463A-A7D0-2E1BEF5B73AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expenses.Directives", "Expenses.Directives\Expenses.Directives.csproj", "{A6DDA409-F321-46B6-A169-F6A629C0178A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Expenses.Directives\Application.csproj", "{A6DDA409-F321-46B6-A169-F6A629C0178A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expenses.Domain", "Expenses.Domain\Expenses.Domain.csproj", "{D6D25E25-25AE-41CC-A703-1A3D581C052F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Expenses.Domain\Infrastructure.csproj", "{D6D25E25-25AE-41CC-A703-1A3D581C052F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web Service", "Web Service", "{8177BA4B-6939-4FD5-89F5-1EB9DEAA8E89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,6 +36,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{6ABB3EBB-C949-4F07-9499-7EB64D76E471} = {8177BA4B-6939-4FD5-89F5-1EB9DEAA8E89}
 		{A6DDA409-F321-46B6-A169-F6A629C0178A} = {FFEFED11-D575-463A-A7D0-2E1BEF5B73AC}
 		{D6D25E25-25AE-41CC-A703-1A3D581C052F} = {FFEFED11-D575-463A-A7D0-2E1BEF5B73AC}
 	EndGlobalSection
