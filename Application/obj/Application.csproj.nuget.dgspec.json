@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\Infrastructure.csproj": {}
+    "F:\\My Works\\New folder\\Daily-Expenses\\Application\\Application.csproj": {}
   },
   "projects": {
-    "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\Infrastructure.csproj": {
+    "F:\\My Works\\New folder\\Daily-Expenses\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\Infrastructure.csproj",
-        "projectName": "Infrastructure",
-        "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\Infrastructure.csproj",
+        "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\mahfuz\\.nuget\\packages\\",
-        "outputPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Domain\\obj\\",
+        "outputPath": "F:\\My Works\\New folder\\Daily-Expenses\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahfuz\\AppData\\Roaming\\NuGet\\NuGet.Config",

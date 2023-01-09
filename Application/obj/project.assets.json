@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Application.csproj",
+      "projectUniqueName": "F:\\My Works\\New folder\\Daily-Expenses\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\Application.csproj",
+      "projectPath": "F:\\My Works\\New folder\\Daily-Expenses\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\mahfuz\\.nuget\\packages\\",
-      "outputPath": "F:\\My Works\\New folder\\Daily-Expenses\\Expenses.Directives\\obj\\",
+      "outputPath": "F:\\My Works\\New folder\\Daily-Expenses\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahfuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
