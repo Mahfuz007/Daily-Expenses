@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "u43/62N2a9Dfm7ZkLByOL2d9drQ4axCTZBXpEOuN6SIVO/adac1Xu2olLffaUcxl6VAjHet/j1HTAE28TnN2WQ==",
+  "dgSpecHash": "UElOrUwNJP8IW/6ax3vfAvhijNjaKaH0/xH8w3X3dqpjdRwqJ72jwSI9BVCTl6aVLO94JIh6ln0HIreygkTi2g==",
   "success": true,
   "projectFilePath": "F:\\My Works\\New folder\\Daily-Expenses\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mahfuz\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\mahfuz\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\mahfuz\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\mahfuz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mahfuz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\mahfuz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\mahfuz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\mahfuz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
