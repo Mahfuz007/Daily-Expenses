@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "GSckmaMPcqZDdlRDAGLDVu4A9q8Q/f4Wpe2gyik5jGY=",
-  "Source": "Daily-essentials",
-  "BasePath": "_content/Daily-essentials",
+  "Hash": "Z4VlaNwmGGhoOKd7JcIvE9YlcrhfbDilke4fwnH2wt4=",
+  "Source": "Daily.Essentials.WebService",
+  "BasePath": "_content/Daily.Essentials.WebService",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "F:\\My Works\\New folder\\Daily-Expenses\\Application\\Application.csproj",
+      "Version": 2,
+      "Source": "Application",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }

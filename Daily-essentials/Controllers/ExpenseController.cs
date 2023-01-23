@@ -3,8 +3,10 @@ using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Daily_essentials.Controllers
+namespace Daily_essentials
 {
+    [Route("[controller]")]
+    [ApiController]
     public class ExpenseController : ControllerBase
     {
         private readonly IMediator _mediator;
@@ -14,10 +16,10 @@ namespace Daily_essentials.Controllers
             _mediator = mediator;
         }
 
-        [HttpPost]
+        [HttpPost("/AddCategory")]
         public async Task<ActionResult> AddCategory([FromBody] AddCategoryCommand command)
         {
-            return await _mediator.Send(command);
+            return Ok();
         }
     }
 }

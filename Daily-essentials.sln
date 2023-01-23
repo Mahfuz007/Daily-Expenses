@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daily.Essentials.WebService", "Daily-essentials\Daily.Essentials.WebService.csproj", "{6ABB3EBB-C949-4F07-9499-7EB64D76E471}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3B745531-3F15-4A19-A6A3-CA11150983AB} = {3B745531-3F15-4A19-A6A3-CA11150983AB}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core Service", "Core Service", "{FFEFED11-D575-463A-A7D0-2E1BEF5B73AC}"
 EndProject
